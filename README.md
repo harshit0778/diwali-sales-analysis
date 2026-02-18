@@ -36,7 +36,6 @@ This project analyzes Diwali sales data to understand customer behavior and impr
 
 ---
 
-
 ## 👤 Author
 Harshit Rathore
 Aspiring Data Analyst 
